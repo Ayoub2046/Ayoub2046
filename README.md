@@ -15,6 +15,6 @@ I'm a Somali IT student, tech researcher, and the CEO of [AyoubDesignDev](https:
 📫 Reach me:  
 - LinkedIn: [Ayuob Adan Abdi](https://www.linkedin.com/in/your-link)  
 - Facebook: [EngAyuob Adan Abdi](https://facebook.com/EngAyuobAdanAbdi)  
-- Email: your.email@example.com
+- Email: your. Ayoubadamupdy@gmail.com 
 
 💡 Motto: _"Tech isn’t just for profit — it’s a tool for progress."
