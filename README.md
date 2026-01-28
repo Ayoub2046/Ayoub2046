@@ -1,20 +1,50 @@
-👋 Hi, I'm Ayuob Adan Abdi
+<!-- Banner -->
+<h1 align="center">👋 Hi, I'm Ayuob Adan Abdi</h1>
+<h3 align="center">🌍 Somali IT Student | Tech Researcher | CEO of AyoubDesignDev</h3>
 
-I'm a Somali IT student, tech researcher, and the CEO of [AyoubDesignDev](https://github.com/yourusername). I'm passionate about building digital solutions that make a real impact in underserved communities.
+<p align="center">
+  <em>"Tech isn’t just for profit — it’s a tool for progress."</em>
+</p>
 
-🔭 I’m currently working on:
-- Web and mobile projects for schools and small businesses
-- Research in digital inclusion and tech accessibility in Somalia
-- Branding and UI/UX design for local startups
+---
 
-📘 I recently co-authored:  
-**"Challenges of Internet Connectivity and Digital Inclusion in Baidoa, Somalia"** – a paper highlighting key barriers and solutions for digital access in my region.
+## 🚀 About Me
+- 💻 Building **digital solutions** for schools, startups, and small businesses  
+- 📊 Researching **digital inclusion & tech accessibility** in Somalia  
+- 🎨 Passionate about **branding & UI/UX design** for local startups  
 
-🌱 I’m learning full-stack development using JavaScript, React, Node.js, and Android (Java/Kotlin).
+---
 
-📫 Reach me:  
-- LinkedIn: [Ayuob Adan Abdi](https://www.linkedin.com/in/your-link)  
-- Facebook: [EngAyuob Adan Abdi](https://facebook.com/EngAyuobAdanAbdi)  
-- Email: your. Ayoubadamupdy@gmail.com 
+## 📘 Publication
+📖 **Challenges of Internet Connectivity and Digital Inclusion in Baidoa, Somalia**  
+_A paper highlighting barriers and solutions for digital access in my region._
 
-💡 Motto: _"Tech isn’t just for profit — it’s a tool for progress."
+---
+
+## 🌱 Currently Learning
+- ⚡ Full-stack development: **JavaScript, React, Node.js**  
+- 📱 Mobile apps: **Android (Java/Kotlin)**  
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://facebook.com/EngAyuobAdanAbdi"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="mailto:Ayoubadamupdy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
+## 🏆 Highlights
+- Founder of **RecentTech** & **AyoubDesignDev**  
+- Projects: **BloodBank Pro**, **AI-driven Climate Risk Prediction**, **Smart Hospital Management**  
+- Advocate for **digital inclusion** & **youth empowerment in Somalia**  
